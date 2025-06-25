@@ -1,0 +1,5 @@
+D:\OneDrive\Documents\GitHub\i\obj\Debug\net6.0-windows\AIAntiAFK.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\GitHub\i\obj\Debug\net6.0-windows\AIAntiAFK.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\GitHub\i\obj\Debug\net6.0-windows\AIAntiAFK.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\GitHub\i\obj\Debug\net6.0-windows\AIAntiAFK.AssemblyInfo.cs
+D:\OneDrive\Documents\GitHub\i\obj\Debug\net6.0-windows\AIAntiAFK.csproj.CoreCompileInputs.cache
